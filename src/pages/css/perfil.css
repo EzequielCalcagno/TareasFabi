@@ -1,0 +1,59 @@
+/* Perfil.css */
+
+/* Fondo degradado y padding para la sección de perfil */
+.perfil-container {
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para encabezados */
+  h1, h2, h3 {
+    font-family: 'Fredoka One', sans-serif;
+    color: #ff6f61;
+    text-align: center;
+  }
+  
+  /* Estilos para los elementos de la lista de tareas */
+  .list-group-item {
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #f8f9fa;
+    transition: background-color 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+  }
+  
+  .task-desc {
+    font-size: 1.1rem;
+  }
+  
+  /* Estilos para la sección de logros */
+  .achievements-section {
+    background-color: transparent;
+    padding: 15px;
+  }
+  
+  .achievement-card {
+    background-color: #ffefd5;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 120px;
+  }
+  
+  .achievement-icon {
+    font-size: 2rem;
+  }
+  
+  .achievement-title {
+    font-size: 0.9rem;
+    margin-top: 5px;
+    font-family: 'Fredoka One', sans-serif;
+    color: #ff6f61;
+  }
+  

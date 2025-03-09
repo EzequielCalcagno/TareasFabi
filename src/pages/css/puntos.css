@@ -1,0 +1,33 @@
+/* Fondo degradado y padding para toda la sección */
+.game-summary {
+    padding: 30px;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  
+  /* Personalización de las tarjetas */
+  .card {
+    border: none;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  
+  /* Animación en la estrella */
+  .star-animation {
+    font-size: 2rem;
+    margin-top: 10px;
+    animation: spin 2s linear infinite;
+  }
+  
+  /* Animación de rotación para la estrella */
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  /* Opcional: estilo para el título */
+  h1 {
+    font-family: 'Fredoka One', sans-serif;
+    color: #ff6f61;
+  }
+  
