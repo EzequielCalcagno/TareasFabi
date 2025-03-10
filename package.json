@@ -1,6 +1,6 @@
 {
   "name": "proyecto-tareas-fabi",
-  "homepage": "https://ezequielcalcagno.github.io/TareasFabi/",
+  "homepage": "https://ezequielcalcagno.github.io/TareasFabi/public/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
